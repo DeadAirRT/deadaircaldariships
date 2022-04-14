@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+
+<page id="4816394" title="DeadAir T Files" descr="names used in DeadAir Mods" voice="yes">
+<!-- 3323247 == deadair --><!--48163x69 == 3323247 since there is a character limit --><!--48163##-->
+<!-- 100 ship name -->
+<!-- 200 ship description -->
+<!-- 300 ishield -->
+ <t id="100">Caracal</t>
+ <t id="200">The Caracal is a powerful vessel that specializes in missile deployment. It has excellent shield defenses, but poor armor plating. Its missile arsenal, when fully stocked, is capable of making a piece-meal of almost anyone.</t>
+ <t id="300">IG L - Caracal Internal Generator</t>
+ <t id="101">Charon</t>
+ <t id="201">As the makers of the Charon, the Caldari State are generally credited with pioneering the freighter class. Recognizing the need for a massive transport vehicle as deep space installations constantly increase in number, they set about making the ultimate in efficient mass transport - and were soon followed by the other empires.\n\Regardless, the Charon still stands out as the benchmark by which the other freighters were measured. Its massive size and titanic cargo hold are rivalled by none.</t>
+ <t id="301">IG L - Charon Internal Generator</t>
+ <t id="102">Chimera</t>
+ <t id="202">The Chimera's design is based upon the Kairiola, a vessel holding tremendous historical significance for the Caldari. Initially a water freighter, the Kairiola was refitted in the days of the Gallente-Caldari war to act as a fighter carrier during the orbital bombardment of Caldari Prime.\n\It was most famously flown by the legendary Admiral Yakia Tovil-Toba directly into Gallente Prime's atmosphere, where it fragmented and struck several key locations on the planet. This event, where the good Admiral gave his life, marked the culmination of a week's concentrated campaign of distraction which enabled the Caldari to evacuate their people from their besieged home planet. Where the Chimera roams, the Caldari remember.</t>
+ <t id="302">IG XL - Chimera Internal Generator</t>
+ <t id="103">Drake</t>
+ <t id="203">Of the meticulous craftsmanship the Caldari are renowned for, the Drake was born. It was found beneath such a ship to rely on anything other than the time-honored combat tradition of missile fire.</t>
+ <t id="303">IG L - Drake Internal Generator</t>
+ <t id="104">Leviathan</t>
+ <t id="204">Citizens of the State, rejoice!\n\Today, a great milestone has been achieved by our glorious leaders. A stepping stone in the grand story of our empire has been traversed. Our individual fears may be quietened; the safety of our great nation has been secured.\n\Today, unyielding, we have walked the way of the warrior. In our hands have our fates been molded. On the Leviathan's back will our civilization be carried home and the taint of the Enemy purged from our souls.\n\Rejoice, citizens! Victory is at hand.\n\-Caldari State Information Bureau Pamphlet, YC 12</t>
+ <t id="304">IG XL - Leviathan Internal Generator</t>
+ <t id="105">Naga</t>
+ <t id="205">The Naga was designed in YC 109 by Corporate Police Force as an anti-Guristas ship, sacrificing the usual robust Caldari Navy standards in favor of supporting battleship-class weaponry. It was rejected by Hyasyoda management for being overspecialized.\n\The Naga design remained in the Hyasyoda archives, forgotten (save for a cameo in the Gallente holo-series CPF Blue). In YC 113 the Caldari Navy entertained contracts for a new tier of gunboat battlecruiser. Hyasyoda quickly submitted and won with the Naga, underbidding both Kaalakiota and Ishukone.\n\The Naga is effective in any campaign where fast, mobile firepower is required.</t>
+ <t id="305">IG L - Naga Internal Generator</t>
+ <t id="106">Raven</t>
+ <t id="206">The Raven is the powerhouse of the Caldari Navy. With its myriad launcher slots and powerful shields, few ships can rival it in strength or majesty.</t>
+ <t id="306">IG L - Raven Internal Generator</t>
+ <t id="107">Rokh</t>
+ <t id="207">Having long suffered the lack of an adequate hybrid platform, the Caldari State's capsule pilots found themselves rejoicing as the Rokh's design specs were released. A fleet vessel if ever there was one, this far-reaching and durable beast is expected to see a great deal of service on battlefields near and far.</t>
+ <t id="307">IG L - Rokh Internal Generator</t>
+ <t id="108">Tengu</t>
+ <t id="208">When we first saw the flock, we were surrounded, caught in a spectacle of stimuli. Brilliant colors, dancing lights, beautiful cacophonies, wafting ambrosia. Those birds surrounded us, each one a different shape, an altered species, a new wonder. I tried to follow a single bird, but my efforts were futile: Transformation is natural to their existence. Imagine it: an undulating mass, a changing mob, all those beasts partaking in wonderful transmogrification.\n\These were our augurs, our deliverers, our saviors. Standing amidst the flock, we should have feared their glory; instead, we drew hope. This moment is the first time I understood what it meant to be Caldari: Divinity in the flock, delivery in flux, one being, many changes.\n\- Janto Sitarbe, The Legendary Flock</t>
+ <t id="308">IG L - Tengu Internal Generator</t>
+</page>
+</language>

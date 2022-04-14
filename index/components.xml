@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dal_l_caracal" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_caracal" />
+  <entry name="ship_dal_l_charon" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_charon" />
+  <entry name="ship_dal_l_drake" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_drake" />
+  <entry name="ship_dal_l_naga" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_naga" />
+  <entry name="ship_dal_l_raven" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_raven" />
+  <entry name="ship_dal_l_rokh" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_rokh" />
+  <entry name="ship_dal_l_tengu" value="extensions\deadaircaldariships\assets\units\size_l\ship_dal_l_tengu" />
+  <entry name="ship_dal_xl_chimera" value="extensions\deadaircaldariships\assets\units\size_xl\ship_dal_xl_chimera" />
+  <entry name="ship_dal_xl_leviathan" value="extensions\deadaircaldariships\assets\units\size_xl\ship_dal_xl_leviathan" />
+  <entry name="ishield_dal_l_caracal" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_caracal" />
+  <entry name="ishield_dal_l_charon" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_charon" />
+  <entry name="ishield_dal_l_drake" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_drake" />
+  <entry name="ishield_dal_l_naga" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_naga" />
+  <entry name="ishield_dal_l_raven" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_raven" />
+  <entry name="ishield_dal_l_rokh" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_rokh" />
+  <entry name="ishield_dal_l_tengu" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_l_tengu" />
+  <entry name="ishield_dal_xl_chimera" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_xl_chimera" />
+  <entry name="ishield_dal_xl_leviathan" value="extensions\deadaircaldariships\assets\props\surfaceelements\ishield_dal_xl_leviathan" />
+</index>

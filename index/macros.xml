@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dal_l_caracal_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_caracal_macro" />
+  <entry name="ship_dal_l_charon_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_charon_macro" />
+  <entry name="ship_dal_l_drake_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_drake_macro" />
+  <entry name="ship_dal_l_naga_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_naga_macro" />
+  <entry name="ship_dal_l_raven_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_raven_macro" />
+  <entry name="ship_dal_l_rokh_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_rokh_macro" />
+  <entry name="ship_dal_l_tengu_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\ship_dal_l_tengu_macro" />
+  <entry name="ship_dal_xl_chimera_macro" value="extensions\deadaircaldariships\assets\units\size_xl\macros\ship_dal_xl_chimera_macro" />
+  <entry name="ship_dal_xl_leviathan_macro" value="extensions\deadaircaldariships\assets\units\size_xl\macros\ship_dal_xl_leviathan_macro" />
+  <entry name="storage_dal_l_caracal_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_caracal_macro" />
+  <entry name="storage_dal_l_charon_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_charon_macro" />
+  <entry name="storage_dal_l_drake_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_drake_macro" />
+  <entry name="storage_dal_l_naga_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_naga_macro" />
+  <entry name="storage_dal_l_raven_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_raven_macro" />
+  <entry name="storage_dal_l_rokh_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_rokh_macro" />
+  <entry name="storage_dal_l_tengu_macro" value="extensions\deadaircaldariships\assets\units\size_l\macros\storage_dal_l_tengu_macro" />
+  <entry name="storage_dal_xl_chimera_macro" value="extensions\deadaircaldariships\assets\units\size_xl\macros\storage_dal_xl_chimera_macro" />
+  <entry name="storage_dal_xl_leviathan_macro" value="extensions\deadaircaldariships\assets\units\size_xl\macros\storage_dal_xl_leviathan_macro" />
+  <entry name="ishield_dal_l_caracal_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_caracal_macro" />
+  <entry name="ishield_dal_l_charon_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_charon_macro" />
+  <entry name="ishield_dal_l_drake_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_drake_macro" />
+  <entry name="ishield_dal_l_naga_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_naga_macro" />
+  <entry name="ishield_dal_l_raven_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_raven_macro" />
+  <entry name="ishield_dal_l_rokh_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_rokh_macro" />
+  <entry name="ishield_dal_l_tengu_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_l_tengu_macro" />
+  <entry name="ishield_dal_xl_chimera_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_xl_chimera_macro" />
+  <entry name="ishield_dal_xl_leviathan_macro" value="extensions\deadaircaldariships\assets\props\surfaceelements\macros\ishield_dal_xl_leviathan_macro" />
+</index>
