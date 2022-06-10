@@ -301,49 +301,49 @@
 					<quaternion qw="-0.4943325400751598" qx="-0.0" qy="-0.0" qz="0.8692728799536085"/>
 				</offset>
 			</connection>
-			<connection group="left-large" name="con_l_turret_left-large_3" tags="turret large standard missile hittable">
+			<connection group="left-large2" name="con_l_turret_left-large_3" tags="turret large missile hittable">
 				<offset>
 					<position x="-93.0379" y="-3.7834" z="-76.8467"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-large" name="con_l_turret_right-large_3" tags="turret large standard missile hittable">
+			<connection group="right-large2" name="con_l_turret_right-large_3" tags="turret large missile hittable">
 				<offset>
 					<position x="93.0379" y="-3.7834" z="-76.8467"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-large" name="con_shieldgen_m_left-large_1" tags="medium shield hittable ">
+			<connection group="left-large" name="con_shieldgen_m_left-large_1" tags="medium shield hittable">
 				<offset>
 					<position x="-150.7937" y="-93.643" z="288.8789"/>
 					<quaternion qw="-0.4943325400751598" qx="-0.0" qy="0.0" qz="-0.8692728799536085"/>
 				</offset>
 			</connection>
-			<connection group="right-large" name="con_shieldgen_m_right-large_1" tags="medium shield hittable ">
+			<connection group="right-large" name="con_shieldgen_m_right-large_1" tags="medium shield hittable">
 				<offset>
 					<position x="150.7937" y="-93.643" z="288.8789"/>
 					<quaternion qw="-0.4943325400751598" qx="-0.0" qy="-0.0" qz="0.8692728799536085"/>
 				</offset>
 			</connection>
-			<connection group="left-large" name="con_shieldgen_m_left-large_2" tags="medium shield hittable ">
+			<connection group="left-large" name="con_shieldgen_m_left-large_2" tags="medium shield hittable">
 				<offset>
 					<position x="-150.7937" y="-93.643" z="155.9185"/>
 					<quaternion qw="-0.4943325400751598" qx="-0.0" qy="0.0" qz="-0.8692728799536085"/>
 				</offset>
 			</connection>
-			<connection group="right-large" name="con_shieldgen_m_right-large_2" tags="medium shield hittable ">
+			<connection group="right-large" name="con_shieldgen_m_right-large_2" tags="medium shield hittable">
 				<offset>
 					<position x="150.7937" y="-93.643" z="155.9185"/>
 					<quaternion qw="-0.4943325400751598" qx="-0.0" qy="-0.0" qz="0.8692728799536085"/>
 				</offset>
 			</connection>
-			<connection group="left-large" name="con_shieldgen_m_left-large_3" tags="medium shield hittable ">
+			<connection group="left-large2" name="con_shieldgen_m_left-large_3" tags="medium shield hittable">
 				<offset>
 					<position x="-93.0379" y="-3.7834" z="-140.8467"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-large" name="con_shieldgen_m_right-large_3" tags="medium shield hittable ">
+			<connection group="right-large2" name="con_shieldgen_m_right-large_3" tags="medium shield hittable">
 				<offset>
 					<position x="93.0379" y="-3.7834" z="-140.8467"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
@@ -373,73 +373,73 @@
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-medium" name="con_m_turret_left-medium_3" tags="turret medium standard missile hittable">
+			<connection group="left-medium2" name="con_m_turret_left-medium_3" tags="turret medium missile hittable">
 				<offset>
 					<position x="-57.9426" y="39.2718" z="-984.3953000000001"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-medium" name="con_m_turret_right-medium_3" tags="turret medium standard missile hittable">
+			<connection group="right-medium2" name="con_m_turret_right-medium_3" tags="turret medium missile hittable">
 				<offset>
 					<position x="57.9426" y="39.2718" z="-984.3953000000001"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-medium" name="con_m_turret_left-medium_4" tags="turret medium standard missile hittable">
+			<connection group="left-medium2" name="con_m_turret_left-medium_4" tags="turret medium missile hittable">
 				<offset>
 					<position x="-57.9426" y="-24.7282" z="-984.3953000000001"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-medium" name="con_m_turret_right-medium_4" tags="turret medium standard missile hittable">
+			<connection group="right-medium2" name="con_m_turret_right-medium_4" tags="turret medium missile hittable">
 				<offset>
 					<position x="57.9426" y="-24.7282" z="-984.3953000000001"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-medium" name="con_shieldgen_m_left-medium_1" tags="medium shield hittable ">
+			<connection group="left-medium" name="con_shieldgen_m_left-medium_1" tags="medium shield hittable">
 				<offset>
 					<position x="-217.03199999999998" y="-96.91969999999999" z="746.8598"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-medium" name="con_shieldgen_m_right-medium_1" tags="medium shield hittable ">
+			<connection group="right-medium" name="con_shieldgen_m_right-medium_1" tags="medium shield hittable">
 				<offset>
 					<position x="217.03199999999998" y="-96.91969999999999" z="746.8598"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-medium" name="con_shieldgen_m_left-medium_2" tags="medium shield hittable ">
+			<connection group="left-medium" name="con_shieldgen_m_left-medium_2" tags="medium shield hittable">
 				<offset>
 					<position x="-3.1883000000000004" y="143.1036" z="746.8598"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-medium" name="con_shieldgen_m_right-medium_2" tags="medium shield hittable ">
+			<connection group="right-medium" name="con_shieldgen_m_right-medium_2" tags="medium shield hittable">
 				<offset>
 					<position x="3.1883000000000004" y="143.1036" z="746.8598"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-medium" name="con_shieldgen_m_left-medium_3" tags="medium shield hittable ">
+			<connection group="left-medium2" name="con_shieldgen_m_left-medium_3" tags="medium shield hittable">
 				<offset>
 					<position x="-57.9426" y="39.2718" z="-1016.3952999999999"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-medium" name="con_shieldgen_m_right-medium_3" tags="medium shield hittable ">
+			<connection group="right-medium2" name="con_shieldgen_m_right-medium_3" tags="medium shield hittable">
 				<offset>
 					<position x="57.9426" y="39.2718" z="-1016.3952999999999"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="left-medium" name="con_shieldgen_m_left-medium_4" tags="medium shield hittable ">
+			<connection group="left-medium2" name="con_shieldgen_m_left-medium_4" tags="medium shield hittable">
 				<offset>
 					<position x="-57.9902" y="-24.7282" z="-1016.3952999999999"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="0.0" qz="-0.7071066656470943"/>
 				</offset>
 			</connection>
-			<connection group="right-medium" name="con_shieldgen_m_right-medium_4" tags="medium shield hittable ">
+			<connection group="right-medium2" name="con_shieldgen_m_right-medium_4" tags="medium shield hittable">
 				<offset>
 					<position x="57.9902" y="-24.7282" z="-1016.3952999999999"/>
 					<quaternion qw="-0.7071068967259818" qx="-0.0" qy="-0.0" qz="0.7071066656470943"/>

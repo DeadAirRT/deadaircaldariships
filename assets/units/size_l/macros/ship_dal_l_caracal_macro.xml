@@ -15,7 +15,7 @@
 				<software ware="software_trademk1" compatible="1"/>
 			</software>
 			<explosiondamage value="1000" shield="5000"/>
-			<storage missile="240" unit="5"/>
+			<storage missile="480" unit="5"/>
 			<hull max="121500"/>
 			<secrecy level="2"/>
 			<purpose primary="fight"/>

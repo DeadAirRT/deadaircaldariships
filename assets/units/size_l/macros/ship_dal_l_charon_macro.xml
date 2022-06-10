@@ -15,7 +15,7 @@
 				<software ware="software_trademk1" default="1"/>
 			</software>
 			<explosiondamage value="1000" shield="5000"/>
-			<storage missile="160" unit="20"/>
+			<storage missile="320" unit="20"/>
 			<hull max="133335"/>
 			<secrecy level="2"/>
 			<purpose primary="trade"/>
