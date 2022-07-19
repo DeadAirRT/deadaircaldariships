@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE icons SYSTEM "icons.dtd" >
 <icons>
-<icon name="ship_dal_*" texture="extensions\deadaircaldariships\assets\fx\gui\textures\ships\*.tga" height="256" width="256"></icon>
+<icon name="ship_dal_*" texture="extensions\deadaircaldariships\assets\fx\gui\textures\ships\*.tga" height="256" width="256"/>
+<icon name="upgrade_*" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\*" height="256" width="256"/>
+
+<icon name="upgrade_ishield_dal_l_caracal_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_l_charon_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_l_drake_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_l_naga_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_l_raven_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_l_rokh_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_l_tengu_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_xl_chimera_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
+<icon name="upgrade_ishield_dal_xl_leviathan_macro" texture="extensions\deadaircaldariships\assets\fx\gui\textures\upgrades\ishield_dal_macro" height="256" width="256"/>
 </icons>

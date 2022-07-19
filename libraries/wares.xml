@@ -3,11 +3,11 @@
 	<add sel="//wares">
 		<!-- SHIPS -->
 		<ware id="ship_dal_l_caracal" name="{4816394,100}" description="{4816394,200}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="3985297" average="4688585" max="5391873"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="1485"/>
+					<ware ware="hullparts" amount="4373"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_caracal_macro" amount="1"/>
@@ -15,11 +15,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_l_raven" name="{4816394,106}" description="{4816394,206}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="5304051" average="6240060" max="7176069"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1387"/>
-					<ware ware="hullparts" amount="6102"/>
+					<ware ware="energycells" amount="1977"/>
+					<ware ware="hullparts" amount="5820"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_raven_macro" amount="1"/>
@@ -27,11 +27,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_l_charon" name="{4816394,101}" description="{4816394,201}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="2254893" average="2652815" max="3050737"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="5"/>
-					<ware ware="hullparts" amount="5"/>
+					<ware ware="energycells" amount="935"/>
+					<ware ware="hullparts" amount="2467"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_charon_macro" amount="1"/>
@@ -39,11 +39,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_l_rokh" name="{4816394,107}" description="{4816394,207}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5495057" average="5858890" max="6522724"/>
+			<price min="5834477" average="6864090" max="7893703"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1000"/>
-					<ware ware="hullparts" amount="4050"/>
+					<ware ware="energycells" amount="2175"/>
+					<ware ware="hullparts" amount="6402"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_rokh_macro" amount="1"/>
@@ -51,11 +51,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_l_naga" name="{4816394,105}" description="{4816394,205}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="3622594" average="4261875" max="4901156"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="1350"/>
+					<ware ware="hullparts" amount="3975"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_naga_macro" amount="1"/>
@@ -63,11 +63,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_l_drake" name="{4816394,103}" description="{4816394,203}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="4821927" average="5672855" max="6523783"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="1797"/>
+					<ware ware="hullparts" amount="5291"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_drake_macro" amount="1"/>
@@ -75,11 +75,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_l_tengu" name="{4816394,108}" description="{4816394,208}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="4383595" average="5157170" max="5930746"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="1634"/>
+					<ware ware="hullparts" amount="4810"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_l_tengu_macro" amount="1"/>
@@ -87,11 +87,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_xl_chimera" name="{4816394,102}" description="{4816394,202}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="7747325" average="9114500" max="10481675"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="2900"/>
+					<ware ware="hullparts" amount="8500"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_xl_chimera_macro" amount="1"/>
@@ -99,11 +99,11 @@
 			<owner faction="daldari"/>
 		</ware>
 		<ware id="ship_dal_xl_leviathan" name="{4816394,104}" description="{4816394,204}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="9684156" average="11393125" max="13102094"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="3625"/>
+					<ware ware="hullparts" amount="10625"/>
 				</primary>
 			</production>
 			<component ref="ship_dal_xl_leviathan_macro" amount="1"/>
